@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://huberthsieh.github.io"
 languageCode = "zh-tw"
-title = "HubertHsieh's blog"
+title = "HubertHsieh's Blog"
 theme = "mediumish"
 summaryLength = 10
 paginate = 6
@@ -11,32 +11,29 @@ publishDir = "docs"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
 [params]
-  logo = "/images/logo.png"
-  description ="the clean blog!"
-  #mailchimp = "you can provide a mailchimp-link here"
+    logo = "/images/logo.png"
+    description ="我不是在講幹話就是在講幹話的路上"
+    mailchimp = "you can provide a mailchimp-link here"
+    thumbnail = "/images/blog/post-test.jpg"
 
 [params.author]
-  name = "John Doe"
-  thumbnail = "/images/author.png"
+  name = "Hubert Hsieh"
+  thumbnail = "/images/blog/post-test.jpg"
   description = "Creator of this blog."
 
 [params.index]
-  picture = "/images/author.png"
-  title = "John Doe"
-  subtitle = "I'm a unique placeholder. Working here and there!"
+  picture = "/images/blog/post-test.jpg"
+  title = "Hubert Hsieh"
+  subtitle = "測試自己的Blog!"
   mdtext = '''
 Currently trying to get this blog running, still don't know what the blog will be about!\
 **This textblock is a demonstration of the mdtext-param.**\
 ### This is a markdown heading
 '''
-  alertbar = false
+  # alertbar = false
 
 [params.social]
-  github = "<username>"
-  linkedin = "<username>"
-  xing = "<username>"
-  medium = "<username>"
-  twitter = "<username>"
+  github = "huberthsieh"
   instagram = "<username>"
 
 ## Main Menu
@@ -51,12 +48,6 @@ Currently trying to get this blog running, still don't know what the blog will b
     identifier = "about"
     weight = 200
     url = "/"
-
-[[menu.main]]
-    name = "Imprint"
-    identifier = "imprint"
-    weight = 200
-    url = "/static/imprint"
 
 # 放程式碼高亮地方
 [markup]

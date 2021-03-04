@@ -1,10 +1,10 @@
 ---
-title: "我不是在講幹話，就是在講幹話的路上"
+title: "不見五陵豪傑墓"
 date: 2021-02-15T22:21:00+08:00
 draft: false
 
 # post thumb
-image: "images/post/post-test.jpg"
+# image: "images/blog/post-test.jpg"
 
 # meta description
 description: "文章編輯測試"
