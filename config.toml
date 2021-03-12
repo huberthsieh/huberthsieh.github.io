@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://huberthsieh.github.io"
 languageCode = "zh-tw"
-title = "HubertHsieh's Blog"
+title = "I am Hubert"
 theme = "mediumish"
 summaryLength = 10
 paginate = 6
@@ -12,19 +12,19 @@ publishDir = "docs"
 
 [params]
     logo = "/images/logo.png"
-    description ="我不是在講幹話就是在講幹話的路上"
+    description ="紀錄此時此刻的自己"
     mailchimp = "you can provide a mailchimp-link here"
     thumbnail = "/images/blog/post-test.jpg"
 
 [params.author]
   name = "Hubert Hsieh"
-  thumbnail = "/images/blog/post-test.jpg"
-  description = "Creator of this blog."
+  thumbnail = "/images/blog/cover8.jpg"
+  description = "BlogBlogBlog!."
 
 [params.index]
-  picture = "/images/blog/post-test.jpg"
+  picture = "/images/blog/cover8.jpg"
   title = "Hubert Hsieh"
-  subtitle = "測試自己的Blog!"
+  subtitle = "BlogBlogBlog!"
   mdtext = '''
 Currently trying to get this blog running, still don't know what the blog will be about!\
 **This textblock is a demonstration of the mdtext-param.**\

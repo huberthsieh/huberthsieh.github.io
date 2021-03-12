@@ -1,3 +1,3 @@
-### huberthsieh.github.io
+### The custom blog with Hugo.
 
-基本架構以及文章初始化
+

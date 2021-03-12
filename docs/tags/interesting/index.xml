@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interesting on HubertHsieh&#39;s Blog</title>
+    <link>https://huberthsieh.github.io/tags/interesting/</link>
+    <description>Recent content in interesting on HubertHsieh&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate><atom:link href="https://huberthsieh.github.io/tags/interesting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ninth</title>
+      <link>https://huberthsieh.github.io/blog/ninth/</link>
+      <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
+      
+      <guid>https://huberthsieh.github.io/blog/ninth/</guid>
+      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -14,7 +14,13 @@ categories:
   - "心得"
 tags:
   - "Hubert"
-  - "Maggie"
+  - "謊言"
+  - "無臉人"
+  - "霍爾"
+  - "成長"
+  - "ZEBRA"
+  - "CONVERSE"
+  - "RAIN"
 
 
 # post type

@@ -1,5 +1,5 @@
 ---
-title: "我笑他人看不穿"
+title: "一段愛與Blog的故事"
 date: 2021-02-15T22:21:00+08:00
 draft: false
 
@@ -7,14 +7,24 @@ draft: false
 # image: "images/blog/post-test.jpg"
 
 # meta description
-description: "文章編輯測試"
+description: "關於部落的愛與恨"
 
 # taxonomies
 categories: 
   - "心得"
 tags:
   - "Hubert"
-  - "Maggie"
+  - "Hubert1"
+  - "Hubert2"
+  - "Hubert3"
+  - "Hubert4"
+  - "Hubert5"
+  - "Hubert6"
+  - "Hubert7"
+  - "Hubert8"
+  - "Hubert9"
+  - "Hubert10"
+  - "Hubert11"
 
 
 # post type
@@ -23,9 +33,9 @@ type: "post"
 
 Hello World
 
-我是幹話王
+我是幹話王 
 
-# 一級標題
+# 關於部落格這件事
 
 ## 二級標題
 
