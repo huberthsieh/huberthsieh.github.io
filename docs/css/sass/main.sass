@@ -1,0 +1,54 @@
+@import _reset
+@import _common
+@import _mixin
+
+// 文章清單
+
+// 文章內頁
+.article
+  border: solid 2px $black
+  border-radius: 4px
+  //background-color: $green2
+  padding: 20px
+
+  .container
+    max-width: 1024px
+    width: 100%
+    //border: solid 2px red
+    //background-color: $bg
+
+  .mainheading
+    z-index: 2
+    margin-top: -40px
+
+    &:before
+      content: none
+
+    h1
+      background-color: $green2
+      font-weight: 700
+
+  p
+    img
+      width: 100%
+
+
+  //.featured-image
+
+  .img-container
+    position: relative
+    border: solid 2px $black
+    border-radius: 4px
+    margin-top: 20px
+    overflow: hidden
+
+    &.feature
+      margin-bottom: 40px
+
+  .highlight
+    pre
+      padding: 20px
+      border: solid 2px $black
+      font-size: 16px
+      font-weight: 600
+

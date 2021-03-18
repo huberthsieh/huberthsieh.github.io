@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on I am Hubert</title>
-    <link>https://huberthsieh.github.io/blog/</link>
-    <description>Recent content in Blogs on I am Hubert</description>
+    <title>#生活 on I am Hubert</title>
+    <link>https://huberthsieh.github.io/tags/#%E7%94%9F%E6%B4%BB/</link>
+    <description>Recent content in #生活 on I am Hubert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 15 Mar 2021 22:21:00 +0800</lastBuildDate><atom:link href="https://huberthsieh.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Mar 2021 22:21:00 +0800</lastBuildDate><atom:link href="https://huberthsieh.github.io/tags/#%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>中國古拳法掌門人</title>
       <link>https://huberthsieh.github.io/blog/article01/</link>
@@ -47,18 +47,6 @@
       <pubDate>Mon, 15 Mar 2021 22:21:00 +0800</pubDate>
       
       <guid>https://huberthsieh.github.io/blog/article03/</guid>
-      <description>Hello World
-我是幹話王
-一級標題 二級標題 最小的六級標題 我是幹話王，我喜歡講幹話~~
- 有序序列一之行  內縮有序序列   有序序列二之行   無序序列一之行  內縮無序序列   無序序列二之行   引用引用?</description>
-    </item>
-    
-    <item>
-      <title>我笑他人看不穿</title>
-      <link>https://huberthsieh.github.io/blog/article04/</link>
-      <pubDate>Mon, 15 Feb 2021 22:21:00 +0800</pubDate>
-      
-      <guid>https://huberthsieh.github.io/blog/article04/</guid>
       <description>Hello World
 我是幹話王
 一級標題 二級標題 最小的六級標題 我是幹話王，我喜歡講幹話~~

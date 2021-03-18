@@ -20,26 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e40b7187-c163-42a0-a4b2-6d07b916d45b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/blog/article03/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/article04/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/article05/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/article01/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/cover1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/profile.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/article01/cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article01/cover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/article01/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article01/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/article02/cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article02/cover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/article02/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article02/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/mytest03/cover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/mytest03/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article04/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/mytest04/cover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/mytest04/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article05/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/mytest05/cover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/mytest05/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article03/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +101,7 @@
       <workItem from="1615807525885" duration="13155000" />
       <workItem from="1615891298212" duration="8672000" />
       <workItem from="1615976144902" duration="12267000" />
-      <workItem from="1616065288397" duration="11399000" />
+      <workItem from="1616065288397" duration="12654000" />
     </task>
     <servers />
   </component>
@@ -170,9 +152,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="569" y="207" width="1037" height="740" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616084913262" />
-    <state x="532" y="237" key="run.anything.popup" timestamp="1614648847845">
+    <state x="532" y="237" key="run.anything.popup" timestamp="1616088487913">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614648847845" />
+    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616088487913" />
   </component>
 </project>

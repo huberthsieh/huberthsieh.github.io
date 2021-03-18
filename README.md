@@ -1,11 +1,23 @@
-#### The custom blog with hugo.
+#### Quick Start
 
-#### Quick start
+> Mac
 
-> Mac Os
+[homebrew](https://brew.sh/index_zh-tw)
 ```
-about mac
-
- > brew install hugo
+ brew install hugo
 ```
+
+> Windows
+
+[Chocolatey](https://chocolatey.org/)
+```
+choco install hugo
+```
+[Scoop](https://scoop.sh/)
+```
+scoop install hugo
+```
+
+
+
 

@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Fredoka+One&family=Inter:wght@300&family=Poppins:wght@400&family=Sawarabi+Gothic&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap')
+
+@import _mixin
+
+// font-family: 'DotGothic16', 'Fredoka One', 'Inter', 'Poppins', 'Sawarabi Gothic', 'sans-serif'
+
+body
+  background-color: $bg
+  *
+    letter-spacing: 1px
+    line-height: 1.5
+
+header
+  img
+    max-width: 400px
+    border: solid 2px $black
+
+.navbar
+  @media (min-width: 992px)
+    padding: 1rem 0
+  @media (max-width: 991px)
+    .container
+      padding: 1rem 15px
+
+  .navbar-brand
+    padding: 0
+    margin-bottom: -10px
+    img
+      display: none
+
+  span
+    font-family: 'Homemade Apple'
+    font-weight: 700
+    font-size: 28px
+
+.container
+  > .mainheading
+    margin-bottom: 40px
+    padding: 15px
+    padding: 20px 40px
+    font-family: 'Fredoka One', Sawarabi Gothic
+    display: flex
+    flex-direction: column
+    align-items: flex-start
+
+.site-content
+  padding-bottom: 64px
+
+.mainheading
+  position: relative
+  z-index: -1
+  &:before
+    content: ""
+    width: 100%
+    height: 100%
+    //background: repeating-linear-gradient(-60deg, $green2 0, $green2 .5%, $green2 .5%, $green2 1%)
+    background: repeating-linear-gradient(-60deg, transparent 0, transparent .5%, $green2 .5%, $green2 1%)
+    //background: repeating-linear-gradient(-60deg, transparent 0, transparent .5%, rgba($green2, .3) .5%, rgba($green2, .3) 1%)
+    //background: $green2
+    position: absolute
+    right: 0
+    bottom: 0
+    z-index: -1
+
+  h1, p
+    background-color: $white
+    display: inline-block
+    padding: 0 15px
+    border: solid 2px $black
+    position: relative
+    border-radius: 4px
+    &:before
+      content: ""
+      +size
+      background-color: $black
+      position: absolute
+      right: -5px
+      bottom: -5px
+      z-index: -1
+      border-radius: 4px
+
+  p
+    margin-bottom: 0
+    padding: 10px 15px
+
+
+// All Post
+.section-title
+  border: solid 2px $black
+  margin-bottom: 20px
+  padding: 15px 0
+  background-color: $green2
+  //background-color: rgba($green2, .2)
+  position: relative
+
+  h2
+    padding: 0 15px 10px 15px
+    text-align: center
+    font-family: 'Poppins', Sawarabi Gothic
+    font-weight: 700
+
+  .tags-content
+    //display: grid
+    //grid-template-columns: repeat(6, 1fr)
+    //grid-template-rows: repeat(1, 1fr)
+    //grid-gap: 2px
+    //grid-auto-flow: row dense
+    //grid-auto-columns: minmax(30px, 100px)
+    +center
+    flex-wrap: wrap
+
+    a
+      background-color: $grey2
+      color: $green2
+      font-weight: 700
+      font-family: 'Poppins', 'Inter'
+      padding: 8px 20px
+      margin: 4px 5px
+      border-radius: 30px
+      position: relative
+      text-align: center
+
+.sidebar
+  border: solid 2px $black
+
+
+.card
+  font-family: 'Poppins'
+  border: solid 2px $black
+  border-radius: 4px
+  position: relative
+
+  .maxthumb, &-title, &-text
+    background-color: transparent
+
+  .maxthumb
+    +size(100%, 0)
+    padding-bottom: 56.25%
+    border-bottom: solid 2px $black
+
+    .img-fluid
+      width: 100%
+
+  &-group
+    margin-bottom: 15px
+
+  &-body
+    padding: 1.25rem
+    position: relative
+    background-color: rgba($green2, .2)
+    background-color: $green2
+
+  &-title
+    margin-bottom: 0
+    border-bottom: none
+    a
+      font-weight: 700
+
+  &-footer
+    border-top: solid 1px $black
+    background-color: rgba($green2, .2)
+    background-color: $green2
+
+    .post-date
+      margin-right: 24px
+
+    .post-read-more
+      position: relative
+
+      &:before, &:after
+        content: ""
+        +size(10px)
+        position: absolute
+        top: 50%
+        transform: translateY(-50%)
+
+      &:after
+        background-color: $green2
+        left: -18px
+        border-radius: 50%
+        z-index: 0
+
+
+.navbar
+  ul
+    li
+      border: solid 2px $black
+      background-color: $white
+      font-family: 'Sawarabi Gothic'
+      font-weight: 700
+      &:first-child
+        border-right: unset
+
+      a.nav-link
+        color: $black !important
+
+.bottompagination
+
+  .pointerup
+    margin: 10px 0
+
+  .navigation
+    .pagination
+      justify-content: center
+      align-items: center
+
+      .prev
+        transform: scaleX(-1)
+
+      .circle
+        //border: solid 1px $black
+        background-color: $green2
+        color: $black
+        border-radius: 50%
+        font-size: 14px
+        font-weight: 500
+        border: solid 1px $black
+        +size(32px)
+        +center
+
+      //span.circle
+        background-color: $green2
+        color: $white
+        border: none
+
+// markdown style
+
+blockquote
+  background-color: rgba($grey, .6)
+  border: solid 1px $green2
+  padding: 20px 30px
+  position: relative
+
+  p
+    color: darken($green2, 5%)
+    color: rgba($grey2, .8)
+    font-weight: 700
+    font-size: 16px
+    margin-bottom: 0
+
+code
+  font-size: 1rem
+  color: $pinky

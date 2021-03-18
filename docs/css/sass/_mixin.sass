@@ -1,0 +1,32 @@
+$bg: #edeae9
+$bg2: #e2e2e2
+$bg3: #dee0e2
+$white: #f5f5f5
+$grey: #e5e5e5
+$grey2: #4b4b4b
+$blue: #5e88e9
+$blue2: #3f57b2
+$blue3: #2d326b
+$yellow: #fdd835
+$gold: #e9fd00
+$pink: #e5a4bc
+$pinky: #eb6f83
+$pinky2: #f3888e
+$green: #0e8f94
+$green2: #54bda6
+$green3: #3f7d92
+$orange: #fd7f66
+$black: #1d1d1d
+
+@mixin size($w:100%, $h:$w)
+  width: $w
+  height: $h
+
+@mixin center
+  display: flex
+  justify-content: center
+  align-items: center
+
+@mixin border($type:solid, $color:$black, $width:2px)
+  border: $type $width $color
+
