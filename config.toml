@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://huberthsieh.github.io/"
+baseURL = "https://huberthsieh.github.io/public"
 languageCode = "zh-tw"
 title = "I am Hubert"
 theme = "mediumish"
