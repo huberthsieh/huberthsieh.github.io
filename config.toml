@@ -1,12 +1,12 @@
 ######################## default configuration ####################
-baseURL = "https://huberthsieh.github.io"
+baseURL = "https://huberthsieh.github.io/"
 languageCode = "zh-tw"
 title = "I am Hubert"
 theme = "mediumish"
 summaryLength = 10
 paginate = 6
 enableEmoji = true
-publishDir = "docs"
+publishDir = "public"
 #disqusShortname = "your-shortname-here"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 #image(cover) size = 1024 * 576 = 16 : 9

@@ -21,7 +21,108 @@
   <component name="ChangeListManager">
     <list default="true" id="e40b7187-c163-42a0-a4b2-6d07b916d45b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/article01/cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/article01/cover.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/article01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/article01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/article02/cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/article02/cover.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/article02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/article02/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/article03/cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/article03/cover.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/article03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/article03/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/article04/cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/article04/cover.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/article04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/article04/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/article05/cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/article05/cover.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/article05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/article05/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/mytest/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/mytest/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/mytest02/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/mytest02/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/mytest03/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/mytest03/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/mytest04/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/mytest04/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/mytest05/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/mytest05/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/ninth/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/心得/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/心得/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/心得/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/心得/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/心得/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/心得/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/心得/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/生活/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/生活/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/生活/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/生活/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/生活/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/生活/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/_reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/_reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/additional.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/additional.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/list.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/medium.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/medium.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/sass/_common.sass" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/sass/_common.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/sass/_mixin.sass" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/sass/_mixin.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/sass/_reset.sass" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/sass/_reset.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/sass/main.sass" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/sass/main.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/author.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/author.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/blog/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/blog/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/blog/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/blog/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/blog/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/blog/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/blog/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/blog/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/blog/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/article01/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/blog/article01/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/cover1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/blog/cover1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/cover10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/blog/cover10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/cover8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/blog/cover8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/cover9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/blog/cover9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/post-test.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/blog/post-test.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/blog/profile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/blog/profile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/jumbotron.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/jumbotron.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/mediumish.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/mediumish.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scss/main.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/imprint/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/static/imprint/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/static/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/#三浦春馬/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/#三浦春馬/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/#三浦春馬/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/#三浦春馬/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/#三浦春馬/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/#三浦春馬/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/#吳孟達/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/#吳孟達/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/#吳孟達/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/#吳孟達/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/#吳孟達/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/#吳孟達/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/#生活/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/#生活/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/#生活/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/#生活/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/#生活/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/#生活/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/#黃鴻升/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/#黃鴻升/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/#黃鴻升/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/#黃鴻升/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/#黃鴻升/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/#黃鴻升/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/drink/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/drink/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/drink/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/hubert/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/hubert/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/hubert/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/hubert/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/interesting/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/interesting/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/interesting/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/maggie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/maggie/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/maggie/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/maggie/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/page/1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +145,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/blog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../exampleSite" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="stylesheet.code.style.group" />
   </component>
@@ -101,7 +202,7 @@
       <workItem from="1615807525885" duration="13155000" />
       <workItem from="1615891298212" duration="8672000" />
       <workItem from="1615976144902" duration="12267000" />
-      <workItem from="1616065288397" duration="12654000" />
+      <workItem from="1616065288397" duration="13957000" />
     </task>
     <servers />
   </component>
@@ -140,18 +241,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="547" y="241" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614872978437" />
-    <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1615049493453">
+    <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1616089853222">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615049493453" />
+    <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616089853222" />
     <state x="359" y="77" key="SettingsEditor" timestamp="1615039540511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="359" y="77" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615039540511" />
-    <state x="569" y="207" width="1037" height="740" key="find.popup" timestamp="1616084913262">
+    <state x="569" y="207" width="1037" height="740" key="find.popup" timestamp="1616089562567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="569" y="207" width="1037" height="740" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616084913262" />
+    <state x="569" y="207" width="1037" height="740" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616089562567" />
     <state x="532" y="237" key="run.anything.popup" timestamp="1616088487913">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
