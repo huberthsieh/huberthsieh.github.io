@@ -1,6 +1,6 @@
 ---
-title: "我笑他人看不穿"
-date: 2021-02-15T22:21:00+08:00
+title: "文章範例會以達叔那篇為主"
+date: 2021-03-15T22:21:00+08:00
 draft: false
 
 # post thumb
@@ -11,11 +11,11 @@ description: "文章編輯測試"
 
 # taxonomies
 categories: 
-  - "心得"
+  - "生活"
+  
 tags:
-  - "Hubert"
-  - "神隱少女"
-
+  - "#黃鴻升"
+  - "#生活"
 
 # post type
 type: "post"

@@ -1,87 +1,42 @@
 ---
-title: "一段愛與Blog的故事"
-date: 2021-02-15T22:21:00+08:00
+title: "中國古拳法掌門人"
+date: 2021-03-15T22:21:00+08:00
 draft: false
 
 # post thumb
 # image: "images/blog/post-test.jpg"
 
 # meta description
-description: "關於部落的愛與恨"
+description: "人人有功練"
 
 # taxonomies
 categories: 
   - "心得"
 tags:
-  - "Hubert"
-  - "Hubert1"
-  - "Hubert2"
-  - "Hubert3"
-  - "Hubert4"
-  - "Hubert5"
-  - "Hubert6"
-  - "Hubert7"
-  - "Hubert8"
-  - "Hubert9"
-  - "Hubert10"
-  - "Hubert11"
-
+  - "#吳孟達"
+  - "#生活"
 
 # post type
 type: "post"
----
+-----------
+>我肚子還有點餓、我就是中國古拳法的掌門人、我限你三秒鐘忘記我現在的樣子、>伏虎羅漢現真身、我要寫個慘字、化骨綿掌，不知道這些經典台詞在此時此刻有沒有不斷的在腦海盤旋呢？
+>
 
-Hello World
+#### 這個世界上最強的劍法
+![](/images/blog/article01/01.jpg)
 
-我是幹話王 
 
-# 關於部落格這件事
+## 娘子，快和牛魔王出來看上帝。
 
-## 二級標題
+{{< youtube 8_6OO_qen7k >}}
+
+#### 
 
 ###### 最小的六級標題
 
-我是*幹話*王，我喜歡講**幹話**~~
-
-1. 有序序列一之行
-    1. 內縮有序序列 
-1. 有序序列二之行
-
-* 無序序列一之行
-    * 內縮無序序列
-* 無序序列二之行
-
-> 引用引用??! 
-
-[這是github超連結](https://github.com/huberthsieh)
-
-[這是router連結](/blog/post-1)
-
-![](https://i.pinimg.com/564x/e0/11/26/e011260267528e21f8210dbd672eb022.jpg)
-![](/images/profile.jpg)
-
-請把`單行程式碼放這`
-
-```python
-# python code
-print("Hello World")
-print("Hello World")
-print("Hello World")
-```
-
-```javascript
-// javascript code
-console.log("Hello World")
-console.log("Hello World")
-console.log("Hello World")
-```
-
-Age           | Time  | Food | Gold | Requirement
---------------|:-----:|-----:| ----:|------------------------
-Feudal Age    | 02:10 |  500 |    0 | Dark Age building x 2
-Castle Age    | 02:40 |  800 |  200 | Feudal Age building x 2
-Imperial Age  | 03:30 | 1000 |  800 | Castle Age building x 2    
 
 
-{{< youtube tCiiejNMFUs >}}
+
+
+
 

@@ -1,26 +1,20 @@
 ---
-title: "我笑他人看不穿"
-date: 2021-02-15T22:21:00+08:00
+title: "如此燦爛的笑容"
+date: 2021-03-15T22:21:00+08:00
 draft: false
 
 # post thumb
 # image: "images/blog/post-test.jpg"
 
 # meta description
-description: "文章編輯測試"
+description: "不知道要耗盡多少力氣撐起"
 
 # taxonomies
 categories: 
   - "心得"
 tags:
-  - "Hubert"
-  - "謊言"
-  - "無臉人"
-  - "霍爾"
-  - "成長"
-  - "ZEBRA"
-  - "CONVERSE"
-  - "RAIN"
+  - "#生活"
+  - "#三浦春馬"
 
 
 # post type

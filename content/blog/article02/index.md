@@ -1,25 +1,25 @@
 ---
-title: "我不是在講幹話"
-date: 2021-02-15T22:21:00+08:00
+title: "丸子沒有三兄弟"
+date: 2021-03-15T22:21:00+08:00
 draft: false
 
 # post thumb
 # image: "images/blog/post-test.jpg"
 
 # meta description
-description: "就是在講幹話的路上"
+description: "文章編輯測試"
 
 # taxonomies
 categories: 
-  - "心得"
+  - "生活"
+  
 tags:
-  - "Hubert"
-  - "暴龍"
-
+  - "#黃鴻升"
+  - "#生活"
 
 # post type
 type: "post"
----
+-----------
 
 Hello World
 
@@ -48,7 +48,7 @@ Hello World
 [這是router連結](/blog/post-1)
 
 ![](https://i.pinimg.com/564x/e0/11/26/e011260267528e21f8210dbd672eb022.jpg)
-![](/images/profile.jpg)
+![](/images/blog/1.jpg)
 
 請把`單行程式碼放這`
 

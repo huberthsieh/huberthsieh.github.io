@@ -20,91 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e40b7187-c163-42a0-a4b2-6d07b916d45b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/mytest/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/mytest/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/mytest02/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/mytest02/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/mytest03/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/mytest03/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/mytest04/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/mytest04/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/mytest05/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/mytest05/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/ninth/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog/page/2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/categories/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/categories/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/categories/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/categories/心得/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/categories/心得/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/categories/心得/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/categories/心得/page/2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/css/additional.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/css/list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/css/medium.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/author.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/blog/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/blog/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/blog/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/blog/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/blog/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/blog/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/blog/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/blog/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/blog/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/blog/cover10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/blog/cover8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/blog/cover9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/blog/post-test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/jumbotron.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/js/mediumish.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/scss/main.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/scss/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/static/imprint/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/static/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/drink/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/drink/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/drink/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/hubert/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/hubert/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/hubert/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/hubert/page/2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/interesting/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/interesting/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/interesting/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/maggie/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/maggie/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/maggie/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/maggie/page/2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tags/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prepros-6.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/cover10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/cover9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitnore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitnore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/article03/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/article04/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/blog/article05/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/blog/article01/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/blog/cover1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/blog/profile.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/mytest/cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article01/cover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/mytest/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article01/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/mytest02/cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article02/cover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/mytest02/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article02/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/mytest03/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/mytest03/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/mytest04/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/mytest04/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/mytest05/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/mytest05/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/ninth.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/article01/cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article01/cover.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/article01/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article01/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/article02/cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article02/cover.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/article02/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article02/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/mytest03/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/mytest03/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article04/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/mytest04/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/mytest04/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article05/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/mytest05/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/mytest05/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article03/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +62,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/mediumish/static/css/sass" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/blog" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="stylesheet.code.style.group" />
   </component>
@@ -139,11 +74,11 @@
       <recent name="D:\Project\hubert\github\huberthsieh.github.io" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\hubert\github\huberthsieh.github.io\content\blog" />
+      <recent name="D:\Project\hubert\github\huberthsieh.github.io\content\blog\article03" />
       <recent name="D:\Project\hubert\github\huberthsieh.github.io\themes\mediumish\static\css\sass" />
       <recent name="D:\Project\hubert\github\huberthsieh.github.io\resources\_gen\assets" />
       <recent name="D:\Project\hubert\github\huberthsieh.github.io\themes\mediumish\static\sass" />
-      <recent name="D:\Project\hubert\github\huberthsieh.github.io\content\blog\mytest02" />
-      <recent name="D:\Project\hubert\github\huberthsieh.github.io\content\blog" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -177,6 +112,14 @@
       <workItem from="1615460500135" duration="3830000" />
       <workItem from="1615546735357" duration="1048000" />
       <workItem from="1615555864048" duration="1247000" />
+      <workItem from="1615560640251" duration="2097000" />
+      <workItem from="1615604653600" duration="638000" />
+      <workItem from="1615637256966" duration="1372000" />
+      <workItem from="1615708162997" duration="15197000" />
+      <workItem from="1615807525885" duration="13155000" />
+      <workItem from="1615891298212" duration="8672000" />
+      <workItem from="1615976144902" duration="12267000" />
+      <workItem from="1616065288397" duration="11399000" />
     </task>
     <servers />
   </component>
@@ -203,6 +146,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="697" y="83" key="#README.html" timestamp="1615820227123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="697" y="83" key="#README.html/0.0.1920.1040@0.0.1920.1040" timestamp="1615820227123" />
     <state x="634" y="299" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613742869678">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -219,10 +166,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="359" y="77" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615039540511" />
-    <state x="570" y="207" width="1037" height="740" key="find.popup" timestamp="1615309031955">
+    <state x="569" y="207" width="1037" height="740" key="find.popup" timestamp="1616084913262">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="570" y="207" width="1037" height="740" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615309031955" />
+    <state x="569" y="207" width="1037" height="740" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616084913262" />
     <state x="532" y="237" key="run.anything.popup" timestamp="1614648847845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
