@@ -14,8 +14,8 @@ categories:
   - "生活"
   
 tags:
-  - "#黃鴻升"
-  - "#生活"
+  - "黃鴻升"
+  - "生活"
 
 # post type
 type: "post"

@@ -13,7 +13,7 @@ description: "文章編輯測試"
 categories: 
   - "心得"
 tags:
-  - "#三浦春馬"
+  - "三浦春馬"
 
 
 # post type
@@ -47,7 +47,7 @@ Hello World
 [這是router連結](/blog/post-1)
 
 ![](https://i.pinimg.com/564x/e0/11/26/e011260267528e21f8210dbd672eb022.jpg)
-![](/images/profile.jpg)
+![](/public/images/profile.jpg)
 
 請把`單行程式碼放這`
 

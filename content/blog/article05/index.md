@@ -13,8 +13,8 @@ description: "不知道要耗盡多少力氣撐起"
 categories: 
   - "心得"
 tags:
-  - "#生活"
-  - "#三浦春馬"
+  - "生活"
+  - "三浦春馬"
 
 
 # post type

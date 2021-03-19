@@ -13,8 +13,8 @@ description: "人人有功練"
 categories: 
   - "心得"
 tags:
-  - "#吳孟達"
-  - "#生活"
+  - "吳孟達"
+  - "生活"
 
 # post type
 type: "post"
