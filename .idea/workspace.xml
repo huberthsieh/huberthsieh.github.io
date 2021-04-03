@@ -22,10 +22,7 @@
     <list default="true" id="e40b7187-c163-42a0-a4b2-6d07b916d45b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/blog/article01/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article01/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/article02/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article02/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/blog/article03/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article03/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/article04/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article04/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/article05/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article05/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../exampleSite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="stylesheet.code.style.group" />
   </component>
@@ -107,7 +104,19 @@
       <workItem from="1615976144902" duration="12267000" />
       <workItem from="1616065288397" duration="13957000" />
       <workItem from="1616090023250" duration="930000" />
-      <workItem from="1616167534858" duration="2150000" />
+      <workItem from="1616167534858" duration="2868000" />
+      <workItem from="1616340380900" duration="2426000" />
+      <workItem from="1616416738209" duration="1425000" />
+      <workItem from="1616498859630" duration="614000" />
+      <workItem from="1616508626521" duration="2401000" />
+      <workItem from="1616675318226" duration="1217000" />
+      <workItem from="1616760949059" duration="625000" />
+      <workItem from="1616812759114" duration="819000" />
+      <workItem from="1616924024931" duration="3658000" />
+      <workItem from="1617016656055" duration="620000" />
+      <workItem from="1617192672861" duration="1228000" />
+      <workItem from="1617367176343" duration="1423000" />
+      <workItem from="1617419251100" duration="3123000" />
     </task>
     <servers />
   </component>
@@ -146,21 +155,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="547" y="241" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614872978437" />
-    <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1616089853222">
+    <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1617192694024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616089853222" />
+    <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617192694024" />
     <state x="359" y="77" key="SettingsEditor" timestamp="1615039540511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="359" y="77" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615039540511" />
-    <state x="569" y="207" width="1037" height="740" key="find.popup" timestamp="1616169141934">
+    <state x="569" y="207" width="1037" height="740" key="find.popup" timestamp="1616342565819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="569" y="207" width="1037" height="740" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616169141934" />
-    <state x="532" y="237" key="run.anything.popup" timestamp="1616088487913">
+    <state x="569" y="207" width="1037" height="740" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616342565819" />
+    <state x="532" y="237" key="run.anything.popup" timestamp="1616937852541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616088487913" />
+    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616937852541" />
   </component>
 </project>

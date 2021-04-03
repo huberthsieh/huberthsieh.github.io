@@ -1,5 +1,5 @@
 ---
-title: "文章範例會以達叔那篇為主"
+title: "數據工程師在做什麼？"
 date: 2021-03-15T22:21:00+08:00
 draft: false
 
@@ -20,10 +20,9 @@ tags:
 # post type
 type: "post"
 ---
-
-Hello World
-
-我是幹話王
+1. 吸收問題 / Absorbing
+2. 解決問題 / Solving
+3. 執行解法 / Executing
 
 # 一級標題
 
