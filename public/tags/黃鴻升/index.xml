@@ -1,35 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>黃鴻升 on I am Hubert</title>
-    <link>https://huberthsieh.github.io/public/tags/%E9%BB%83%E9%B4%BB%E5%8D%87/</link>
-    <description>Recent content in 黃鴻升 on I am Hubert</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Mon, 15 Mar 2021 22:21:00 +0800</lastBuildDate><atom:link href="https://huberthsieh.github.io/public/tags/%E9%BB%83%E9%B4%BB%E5%8D%87/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>丸子沒有三兄弟</title>
-      <link>https://huberthsieh.github.io/public/blog/article02/</link>
-      <pubDate>Mon, 15 Mar 2021 22:21:00 +0800</pubDate>
-      
-      <guid>https://huberthsieh.github.io/public/blog/article02/</guid>
-      <description>Hello World
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>黃鴻升 on I am Hubert</title><link>https://huberthsieh.github.io/public/tags/%E9%BB%83%E9%B4%BB%E5%8D%87/</link><description>Recent content in 黃鴻升 on I am Hubert</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Mon, 15 Mar 2021 22:21:00 +0800</lastBuildDate><atom:link href="https://huberthsieh.github.io/public/tags/%E9%BB%83%E9%B4%BB%E5%8D%87/index.xml" rel="self" type="application/rss+xml"/><item><title>丸子沒有三兄弟</title><link>https://huberthsieh.github.io/public/blog/article02/</link><pubDate>Mon, 15 Mar 2021 22:21:00 +0800</pubDate><guid>https://huberthsieh.github.io/public/blog/article02/</guid><description>Hello World
 我是幹話王
 一級標題 二級標題 最小的六級標題 我是幹話王，我喜歡講幹話~~
- 有序序列一之行  內縮有序序列   有序序列二之行   無序序列一之行  內縮無序序列   無序序列二之行   引用引用?</description>
-    </item>
-    
-    <item>
-      <title>文章範例會以達叔那篇為主</title>
-      <link>https://huberthsieh.github.io/public/blog/article03/</link>
-      <pubDate>Mon, 15 Mar 2021 22:21:00 +0800</pubDate>
-      
-      <guid>https://huberthsieh.github.io/public/blog/article03/</guid>
-      <description>Hello World
-我是幹話王
-一級標題 二級標題 最小的六級標題 我是幹話王，我喜歡講幹話~~
- 有序序列一之行  內縮有序序列   有序序列二之行   無序序列一之行  內縮無序序列   無序序列二之行   引用引用?</description>
-    </item>
-    
-  </channel>
-</rss>
+有序序列一之行 內縮有序序列 有序序列二之行 無序序列一之行 內縮無序序列 無序序列二之行 引用引用?</description></item><item><title>數據工程師在做什麼？</title><link>https://huberthsieh.github.io/public/blog/article03/</link><pubDate>Mon, 15 Mar 2021 22:21:00 +0800</pubDate><guid>https://huberthsieh.github.io/public/blog/article03/</guid><description>吸收問題 / Absorbing 解決問題 / Solving 執行解法 / Executing 一級標題 二級標題 最小的六級標題 我是幹話王，我喜歡講幹話~~</description></item></channel></rss>

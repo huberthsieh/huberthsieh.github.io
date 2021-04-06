@@ -13,7 +13,7 @@ publishDir = "public"
 
 [params]
     logo = "/images/logo.png"
-    description ="我真的是金牌殺手"
+    description ="我還有點餓"
     mailchimp = "you can provide a mailchimp-link here"
     thumbnail = "/images/blog/post-test.jpg"
 

@@ -1,57 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>生活 on I am Hubert</title>
-    <link>https://huberthsieh.github.io/public/tags/%E7%94%9F%E6%B4%BB/</link>
-    <description>Recent content in 生活 on I am Hubert</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Mon, 15 Mar 2021 22:21:00 +0800</lastBuildDate><atom:link href="https://huberthsieh.github.io/public/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>中國古拳法掌門人</title>
-      <link>https://huberthsieh.github.io/public/blog/article01/</link>
-      <pubDate>Mon, 15 Mar 2021 22:21:00 +0800</pubDate>
-      
-      <guid>https://huberthsieh.github.io/public/blog/article01/</guid>
-      <description>  我肚子還有點餓、我就是中國古拳法的掌門人、我限你三秒鐘忘記我現在的樣子、&amp;gt;伏虎羅漢現真身、我要寫個慘字、化骨綿掌，不知道這些經典台詞在此時此刻有沒有不斷的在腦海盤旋呢？
- 這個世界上最強的劍法 娘子，快和牛魔王出來看上帝。    最小的六級標題 </description>
-    </item>
-    
-    <item>
-      <title>丸子沒有三兄弟</title>
-      <link>https://huberthsieh.github.io/public/blog/article02/</link>
-      <pubDate>Mon, 15 Mar 2021 22:21:00 +0800</pubDate>
-      
-      <guid>https://huberthsieh.github.io/public/blog/article02/</guid>
-      <description>Hello World
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>生活 on I am Hubert</title><link>https://huberthsieh.github.io/public/tags/%E7%94%9F%E6%B4%BB/</link><description>Recent content in 生活 on I am Hubert</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Tue, 16 Mar 2021 20:20:00 +0800</lastBuildDate><atom:link href="https://huberthsieh.github.io/public/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>有為你怎麼了有為</title><link>https://huberthsieh.github.io/public/blog/article01/</link><pubDate>Tue, 16 Mar 2021 20:20:00 +0800</pubDate><guid>https://huberthsieh.github.io/public/blog/article01/</guid><description> 「我肚子還有點餓」、「我就是中國古拳法的掌門人」、「我限你三秒鐘忘記我現在的樣子」、「伏虎羅漢現真身」、「我要寫個慘字」、「化骨綿掌」， 不知道這些經典台詞在此時此刻有沒有不斷的在你們的腦海盤旋呢？
+不知道你有沒有聽說過這世界上有一招失傳已久的劍法 娘子，快和牛魔王出來看上帝。 最小的六級標題</description></item><item><title>丸子沒有三兄弟</title><link>https://huberthsieh.github.io/public/blog/article02/</link><pubDate>Mon, 15 Mar 2021 22:21:00 +0800</pubDate><guid>https://huberthsieh.github.io/public/blog/article02/</guid><description>Hello World
 我是幹話王
 一級標題 二級標題 最小的六級標題 我是幹話王，我喜歡講幹話~~
- 有序序列一之行  內縮有序序列   有序序列二之行   無序序列一之行  內縮無序序列   無序序列二之行   引用引用?</description>
-    </item>
-    
-    <item>
-      <title>如此燦爛的笑容</title>
-      <link>https://huberthsieh.github.io/public/blog/article05/</link>
-      <pubDate>Mon, 15 Mar 2021 22:21:00 +0800</pubDate>
-      
-      <guid>https://huberthsieh.github.io/public/blog/article05/</guid>
-      <description>Hello World
+有序序列一之行 內縮有序序列 有序序列二之行 無序序列一之行 內縮無序序列 無序序列二之行 引用引用?</description></item><item><title>如此燦爛的笑容</title><link>https://huberthsieh.github.io/public/blog/article05/</link><pubDate>Mon, 15 Mar 2021 22:21:00 +0800</pubDate><guid>https://huberthsieh.github.io/public/blog/article05/</guid><description>Hello World
 我是幹話王
 一級標題 二級標題 最小的六級標題 我是幹話王，我喜歡講幹話~~
- 有序序列一之行  內縮有序序列   有序序列二之行   無序序列一之行  內縮無序序列   無序序列二之行   引用引用?</description>
-    </item>
-    
-    <item>
-      <title>文章範例會以達叔那篇為主</title>
-      <link>https://huberthsieh.github.io/public/blog/article03/</link>
-      <pubDate>Mon, 15 Mar 2021 22:21:00 +0800</pubDate>
-      
-      <guid>https://huberthsieh.github.io/public/blog/article03/</guid>
-      <description>Hello World
-我是幹話王
-一級標題 二級標題 最小的六級標題 我是幹話王，我喜歡講幹話~~
- 有序序列一之行  內縮有序序列   有序序列二之行   無序序列一之行  內縮無序序列   無序序列二之行   引用引用?</description>
-    </item>
-    
-  </channel>
-</rss>
+有序序列一之行 內縮有序序列 有序序列二之行 無序序列一之行 內縮無序序列 無序序列二之行 引用引用?</description></item><item><title>數據工程師在做什麼？</title><link>https://huberthsieh.github.io/public/blog/article03/</link><pubDate>Mon, 15 Mar 2021 22:21:00 +0800</pubDate><guid>https://huberthsieh.github.io/public/blog/article03/</guid><description>吸收問題 / Absorbing 解決問題 / Solving 執行解法 / Executing 一級標題 二級標題 最小的六級標題 我是幹話王，我喜歡講幹話~~</description></item></channel></rss>
