@@ -20,9 +20,97 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e40b7187-c163-42a0-a4b2-6d07b916d45b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/.github/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/.github/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/archetypes/blog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/archetypes/default.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/archetypes/itemized.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/config.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/content/about/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/content/blog/creating-a-new-theme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/content/blog/goisforlovers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/content/blog/hugoisforlovers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/content/blog/migrate-from-jekyll.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/content/contact/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/content/itemized/item1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/content/itemized/item2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/content/itemized/item3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/content/itemized/item4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/data/comments/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/static/css/add-on.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/static/img/2014/04/pic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/static/img/2014/04/pic02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/static/img/2014/04/pic03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/static/img/2014/09/pic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/static/img/2014/09/pic03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/static/img/main/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/static/js/add-on.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/exampleSite/staticman.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/images/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/images/tn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/503.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/_default/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/_default/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/_default/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/about/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/contact/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/itemized/content-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/itemized/content-single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/itemized/footer-category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/itemized/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/itemized/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/maintenance.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/partials/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/partials/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/partials/footer_mathjax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/partials/general-title.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/partials/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/partials/img-path.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/partials/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/partials/pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/partials/rss-icon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/partials/seo_schema.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/partials/share-links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/partials/share-menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/partials/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/partials/social.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/post/comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/post/content-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/post/content-single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/post/featured.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/post/footer-category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/post/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/post/prev-next.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/post/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/post/staticman.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/shortcodes/fancybox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/shortcodes/img-fit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/shortcodes/img-post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/shortcodes/url-link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/taxonomy/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/taxonomy/category.terms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/taxonomy/tag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/layouts/taxonomy/tag.terms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/static/css/academicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/static/fonts/academicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/static/fonts/academicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/static/fonts/academicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/static/fonts/academicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/static/js/backToTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/static/js/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-future-imperfect/theme.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/article01/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/article01/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mediumish" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +135,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="stylesheet.code.style.group" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -58,12 +147,14 @@
       <recent name="D:\Project\hubert\github\huberthsieh.github.io\themes\mediumish\static\sass" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes" />
       <recent name="D:\Project\hubert\github\huberthsieh.github.io\themes\mediumish\static\css" />
       <recent name="D:\Project\hubert\github\huberthsieh.github.io\content\blog\my-first-test" />
       <recent name="D:\Project\hubert\github\huberthsieh.github.io\content\blog" />
       <recent name="D:\Project\hubert\github\huberthsieh.github.io" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -119,11 +210,14 @@
       <workItem from="1617419251100" duration="3815000" />
       <workItem from="1617622809070" duration="759000" />
       <workItem from="1617711344922" duration="3938000" />
+      <workItem from="1619342623928" duration="39000" />
+      <workItem from="1619342666751" duration="1649000" />
+      <workItem from="1619344517883" duration="336000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -143,35 +237,5 @@
       <path value="$PROJECT_DIR$/themes/liva-hugo" />
       <path value="$PROJECT_DIR$/themes/mediumish" />
     </ignored-roots>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="697" y="83" key="#README.html" timestamp="1615820227123">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="697" y="83" key="#README.html/0.0.1920.1040@0.0.1920.1040" timestamp="1615820227123" />
-    <state x="634" y="299" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613742869678">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="634" y="299" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1613742869678" />
-    <state x="547" y="241" key="EditFileWatcherDialog" timestamp="1614872978437">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="547" y="241" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614872978437" />
-    <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1617192694024">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617192694024" />
-    <state x="359" y="77" key="SettingsEditor" timestamp="1615039540511">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="359" y="77" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615039540511" />
-    <state x="569" y="207" width="1037" height="740" key="find.popup" timestamp="1616342565819">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="569" y="207" width="1037" height="740" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616342565819" />
-    <state x="532" y="237" key="run.anything.popup" timestamp="1616937852541">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616937852541" />
   </component>
 </project>

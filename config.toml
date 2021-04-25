@@ -2,7 +2,7 @@
 baseURL = "https://huberthsieh.github.io/public"
 languageCode = "zh-tw"
 title = "I am Hubert"
-theme = "mediumish"
+theme = "hugo-future-imperfect"
 summaryLength = 10
 paginate = 6
 enableEmoji = true
@@ -37,6 +37,12 @@ Hello,I'm Hubert Hsieh. A visual designer and Front-end Engineer living in Taich
 
 ## Main Menu
 [[menu.main]]
+    name = "Home"
+    weight = 100
+    identifier = "blog"
+    url = "/"
+
+[[menu.main]]
     name = "Blog"
     weight = 100
     identifier = "blog"
@@ -46,7 +52,7 @@ Hello,I'm Hubert Hsieh. A visual designer and Front-end Engineer living in Taich
     name = "About Me"
     identifier = "about"
     weight = 200
-    url = "/"
+    url = "/about"
 
 # 放程式碼高亮地方
 [markup]
