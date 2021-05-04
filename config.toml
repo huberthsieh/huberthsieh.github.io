@@ -1,5 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://huberthsieh.github.io/public"
+baseURL = "/"
+# baseURL = "https://huberthsieh.github.io/public"
 languageCode = "zh-tw"
 title = "I am Hubert"
 theme = "hugo-future-imperfect"
@@ -12,47 +13,103 @@ publishDir = "public"
 #image(cover) size = 1024 * 576 = 16 : 9
 
 [params]
-    logo = "/images/logo.png"
-    description ="我還有點餓"
-    mailchimp = "you can provide a mailchimp-link here"
-    thumbnail = "/images/blog/post-test.jpg"
+#     logo = "/images/logo.png"
+#     description ="我還有點餓"
+#     mailchimp = "you can provide a mailchimp-link here"
+#     thumbnail = "/images/blog/post-test.jpg"
 
-[params.author]
-  name = "Hubert Hsieh"
-  thumbnail = "/images/blog/cover8.jpg"
-  description = "BlogBlogBlog!."
+    # Sets Social Share links to appear on posts
+    socialShare = false
+    socialShareEmail = true
 
-[params.index]
-  picture = "/images/blog/profile.jpg"
-  title = "Hubert Hsieh"
-  subtitle = "F2E"
-  mdtext = '''
-Hello,I'm Hubert Hsieh. A visual designer and Front-end Engineer living in Taichung.
-'''
-  # alertbar = false
+    # Sets Social Media icons to appear on the sidebar
+    socialAppearAtTop    = true
+    socialAppearAtBottom = true
 
-[params.social]
-  github = "huberthsieh"
-  instagram = "<username>"
+
+# [params.social]
+#   github = "huberthsieh"
+#   instagram = "<username>"
+
+# 自我介紹區域
+[params.intro]
+  header    = "Hubert Hsieh"
+
+#   paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+
+    paragraph = "前端工程師，喜歡有趣的事，欣賞認真的人，享受解決問題帶來的快樂，希望明天的自己能比現在的自己更加茁壯。"
+    about     = "努力成長，快樂開發"
+
+  # This appears at the top of the sidebar above params.intro.header.
+  # A width of less than 100px is recommended from a design perspective.
+  [params.intro.pic]
+    src       = "/images/profile.jpg"
+    # Sets Image to be a cirlce
+    circle    = true
+    # Sets Image to be Future Imperfect's hexagon
+    imperfect = false
+    width     = "92"
+    alt       = "Hubert protfolio Image"
+
+
 
 ## Main Menu
 [[menu.main]]
     name = "Home"
-    weight = 100
-    identifier = "blog"
+    weight = 1
+    identifier = "fa fa-home"
     url = "/"
 
 [[menu.main]]
     name = "Blog"
-    weight = 100
-    identifier = "blog"
+    weight = 2
+    identifier = "fa fa-newspaper-o"
     url = "/blog"
 
 [[menu.main]]
     name = "About Me"
-    identifier = "about"
-    weight = 200
+    identifier = "fa fa-id-card-o"
+    weight = 3
     url = "/about"
+
+# 社群連結
+[social]
+  # Coding Communities
+  github           = "jpescador/hugo-future-imperfect"
+  gitlab           = "example"
+  stackoverflow    = "" # User Number
+  bitbucket        = ""
+  jsfiddle         = ""
+  codepen          = ""
+  # Visual Art Communities
+  deviantart       = ""
+  behance          = ""
+  dribbble         = ""
+  # Publishing Communities
+  wordpress        = ""
+  medium           = ""
+  # Professional/Business Oriented Communities
+  linkedin         = "example"
+  foursquare       = ""
+  xing             = ""
+  slideshare       = ""
+  # Social Networks
+  facebook         = "example"
+  googleplus       = ""
+  quora            = ""
+  youtube          = ""
+  instagram        = "example"
+  tumblr           = ""
+  twitter          = "example"
+  skype            = ""
+  snapchat         = ""
+  pinterest        = "example"
+  telegram         = "example"
+  googlescholar    = ""
+  orcid            = ""
+  researchgate     = "example"
+  # Email
+  email            = "example"
 
 # 放程式碼高亮地方
 [markup]
