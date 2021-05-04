@@ -24,7 +24,7 @@ type: "post"
 >
 
 #### 不知道你有沒有聽說過這世界上有一招失傳已久的劍法
-![](/public/images/blog/article01/01.jpg)
+![](/images/blog/article01/01.jpg)
 
 ## 娘子，快和牛魔王出來看上帝。
 {{< youtube 8_6OO_qen7k >}}
